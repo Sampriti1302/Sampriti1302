@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sampriti1302
 - 👀 I’m interested in Real World Projects
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI, Data Science
 - 📫 How to reach me: sampriti.mahato01@gmail.com
 - 😄 Pronouns: her
 
